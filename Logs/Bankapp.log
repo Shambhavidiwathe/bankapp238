@@ -1,0 +1,106 @@
+ 2024-08-11 11:07:16,132 : INFO : test_login_paramitor_005 : Testcase test_login_005 is started 
+ 
+ 2024-08-11 11:07:16,132 : INFO : test_login_paramitor_005 : Opening Browser 
+ 2024-08-11 11:07:16,180 : INFO : test_login_003 : Testcase test_login_003 is started 
+ 2024-08-11 11:07:16,181 : INFO : test_login_003 : Opening Browser 
+ 2024-08-11 11:07:16,616 : INFO : test_login_ddt_006 : test_login_ddt_006_pass is Started 
+ 
+ 2024-08-11 11:07:16,619 : INFO : test_login_ddt_006 : Opening browser 
+ 2024-08-11 11:07:16,634 : INFO : test_login_paramitor_005 : Testcase test_login_005 is started 
+ 
+ 2024-08-11 11:07:16,640 : INFO : test_login_paramitor_005 : Opening Browser 
+ 2024-08-11 11:07:16,690 : INFO : test_login_paramitor_005 : Testcase test_login_005 is started 
+ 
+ 2024-08-11 11:07:16,690 : INFO : test_login_paramitor_005 : Opening Browser 
+ 2024-08-11 11:07:16,729 : INFO : test_login_paramitor_005 : Entering username 
+ 2024-08-11 11:07:16,837 : INFO : test_login_003 : Entering username 
+ 2024-08-11 11:07:17,093 : INFO : test_login_paramitor_005 : Entering password 
+ 2024-08-11 11:07:17,135 : INFO : test_login_003 : Entering password 
+ 2024-08-11 11:07:17,342 : INFO : test_login_paramitor_005 : Entering username 
+ 2024-08-11 11:07:17,407 : INFO : test_login_paramitor_005 : Entering username 
+ 2024-08-11 11:07:17,516 : INFO : test_login_paramitor_005 : Entering password 
+ 2024-08-11 11:07:17,522 : INFO : test_login_ddt_006 : Counting no of rows 
+ 2024-08-11 11:07:17,534 : INFO : test_login_ddt_006 : Reading data from excelsheet  
+ 2024-08-11 11:07:17,566 : INFO : test_login_ddt_006 : Entering Username-->Sanvi 
+ 2024-08-11 11:07:17,573 : INFO : test_login_paramitor_005 : Entering password 
+ 2024-08-11 11:07:17,844 : INFO : test_login_paramitor_005 : validating logins with diffrent data 
+ 2024-08-11 11:07:17,908 : INFO : test_login_ddt_006 : Entering Password-->S@nvi123 
+ 2024-08-11 11:07:18,132 : INFO : test_login_ddt_006 : Clicking on login button 
+ 2024-08-11 11:07:18,351 : INFO : test_login_paramitor_005 : validating logins with diffrent data 
+ 2024-08-11 11:07:19,005 : INFO : test_login_paramitor_005 : validating logins with diffrent data 
+ 2024-08-11 11:07:21,027 : INFO : test_login_paramitor_005 : taking screenshot 
+ 2024-08-11 11:07:21,232 : INFO : test_login_ddt_006 : Verifying the login status 
+ 2024-08-11 11:07:21,549 : INFO : test_login_003 : Cheking on title 
+ 2024-08-11 11:07:21,565 : INFO : test_login_003 : Testcase test_login_003 is pass 
+ 2024-08-11 11:07:21,565 : INFO : test_login_003 : Taking screenshot 
+ 2024-08-11 11:07:22,122 : INFO : test_login_paramitor_005 : Testcase test_login_005 is completed 
+ 
+ 2024-08-11 11:07:22,619 : INFO : test_login_003 : Testcase test_login_003 is completed 
+ 
+ 2024-08-11 11:07:23,264 : INFO : test_login_ddt_006 : writing data to excelsheet 
+ 2024-08-11 11:07:23,308 : INFO : test_login_ddt_006 : Taking the screenshot 
+ 2024-08-11 11:07:23,623 : INFO : test_login_ddt_006 : Clicking on logout button 
+ 2024-08-11 11:07:24,442 : INFO : test_login_ddt_006 : Entering Username-->sanvi 
+ 2024-08-11 11:07:24,617 : INFO : test_login_ddt_006 : Entering Password-->sanvi212 
+ 2024-08-11 11:07:24,863 : INFO : test_login_ddt_006 : Clicking on login button 
+ 2024-08-11 11:07:27,567 : INFO : test_login_ddt_006 : Verifying the login status 
+ 2024-08-11 11:07:29,092 : INFO : test_signup_createuser_002 : Testcase test_signup_createuser_002 is started 
+ 2024-08-11 11:07:29,092 : INFO : test_signup_createuser_002 : Opening browser 
+ 2024-08-11 11:07:29,659 : INFO : test_signup_createuser_002 : Entering username 
+ 2024-08-11 11:07:29,855 : INFO : test_signup_createuser_002 : Entering password 
+ 2024-08-11 11:07:29,988 : INFO : test_login_paramitor_005 : Testcase test_login_005 is started 
+ 
+ 2024-08-11 11:07:29,988 : INFO : test_login_paramitor_005 : Opening Browser 
+ 2024-08-11 11:07:30,005 : INFO : test_signup_createuser_002 : Entering email 
+ 2024-08-11 11:07:30,221 : INFO : test_signup_createuser_002 : Entering phone no 
+ 2024-08-11 11:07:30,558 : INFO : test_login_paramitor_005 : Entering username 
+ 2024-08-11 11:07:30,750 : INFO : test_login_paramitor_005 : Entering password 
+ 2024-08-11 11:07:31,568 : INFO : test_login_paramitor_005 : validating logins with diffrent data 
+ 2024-08-11 11:07:37,515 : INFO : test_signup_createuser_002 : Validating user creation 
+ 2024-08-11 11:07:37,515 : INFO : test_signup_createuser_002 : Testcase test_signup_createuser_002 is completed 
+ 
+ 2024-08-11 11:07:42,019 : INFO : test_login_paramitor_005 : taking screenshot 
+ 2024-08-11 11:07:42,436 : INFO : test_login_paramitor_005 : Testcase test_login_005 is completed 
+ 
+ 2024-08-11 11:07:42,530 : INFO : test_login_paramitor_005 : taking screenshot 
+ 2024-08-11 11:07:42,846 : INFO : test_login_paramitor_005 : Testcase test_login_005 is completed 
+ 
+ 2024-08-11 11:07:49,189 : INFO : test_user_managment_004 : Testcase test_user_managment_004 is started  
+ 2024-08-11 11:07:49,192 : INFO : test_user_managment_004 : Opening browser 
+ 2024-08-11 11:07:49,671 : INFO : test_user_managment_004 : Entering username 
+ 2024-08-11 11:07:49,856 : INFO : test_user_managment_004 : Entering password 
+ 2024-08-11 11:07:51,754 : INFO : test_login_ddt_006 : writing data to excelsheet 
+ 2024-08-11 11:07:51,780 : INFO : test_user_managment_004 : Entering username for usermanagment 
+ 2024-08-11 11:07:51,790 : INFO : test_login_ddt_006 : Taking a screenshot 
+ 2024-08-11 11:07:52,188 : INFO : test_login_ddt_006 : Entering Username-->Sanvi 
+ 2024-08-11 11:07:52,336 : INFO : test_login_ddt_006 : Entering Password-->admin1231 
+ 2024-08-11 11:07:52,361 : INFO : test_user_managment_004 : Deleting present email  
+ 2024-08-11 11:07:52,514 : INFO : test_login_ddt_006 : Clicking on login button 
+ 2024-08-11 11:07:52,530 : INFO : test_user_managment_004 : Updating email 
+ 2024-08-11 11:07:54,944 : INFO : test_login_ddt_006 : Verifying the login status 
+ 2024-08-11 11:07:55,233 : INFO : test_user_managment_004 : Validating user updation 
+ 2024-08-11 11:07:55,233 : INFO : test_user_managment_004 : Testcase test_user_managment_004 is completed  
+ 2024-08-11 11:07:55,646 : INFO : test_login_paramitor_005 : taking screenshot 
+ 2024-08-11 11:07:55,905 : INFO : test_login_paramitor_005 : Testcase test_login_005 is completed 
+ 
+ 2024-08-11 11:08:19,088 : INFO : test_login_ddt_006 : writing data to excelsheet 
+ 2024-08-11 11:08:19,119 : INFO : test_login_ddt_006 : Taking a screenshot 
+ 2024-08-11 11:08:19,450 : INFO : test_login_ddt_006 : Entering Username-->Admin1 
+ 2024-08-11 11:08:19,602 : INFO : test_login_ddt_006 : Entering Password-->saanvui 
+ 2024-08-11 11:08:19,762 : INFO : test_login_ddt_006 : Clicking on login button 
+ 2024-08-11 11:08:22,156 : INFO : test_login_ddt_006 : Verifying the login status 
+ 2024-08-11 11:08:46,283 : INFO : test_login_ddt_006 : writing data to excelsheet 
+ 2024-08-11 11:08:46,304 : INFO : test_login_ddt_006 : Taking a screenshot 
+ 2024-08-11 11:08:46,626 : INFO : test_login_ddt_006 : Entering Username-->savni 
+ 2024-08-11 11:08:46,771 : INFO : test_login_ddt_006 : Entering Password-->s@435 
+ 2024-08-11 11:08:46,896 : INFO : test_login_ddt_006 : Clicking on login button 
+ 2024-08-11 11:08:49,307 : INFO : test_login_ddt_006 : Verifying the login status 
+ 2024-08-11 11:09:13,449 : INFO : test_login_ddt_006 : writing data to excelsheet 
+ 2024-08-11 11:09:13,478 : INFO : test_login_ddt_006 : Taking a screenshot 
+ 2024-08-11 11:09:20,507 : INFO : test_signup_url_001 : Testcase test_signup_url_001 is started 
+ 2024-08-11 11:09:20,507 : INFO : test_signup_url_001 : Opening browser 
+ 2024-08-11 11:09:20,514 : INFO : test_signup_url_001 : Cheking page title 
+ 2024-08-11 11:09:20,525 : INFO : test_signup_url_001 : Testcase test_signup_url_001 is pass 
+ 2024-08-11 11:09:20,525 : INFO : test_signup_url_001 : Taking screenshot 
+ 2024-08-11 11:09:20,816 : INFO : test_signup_url_001 : Testcase test_signup_url_001 is completed 
+ 
